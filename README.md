@@ -1,3 +1,5 @@
+This Repo only contains Part One!
+
 Instructions (P1)
 For each dataset, we provide the training dataset, training label, and test dataset. Please use the training dataset and training label to build your classifier and predict the test label.
 
